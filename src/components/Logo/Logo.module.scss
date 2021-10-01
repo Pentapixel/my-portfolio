@@ -1,1 +1,6 @@
 :export { logoPrimary: var(--logo-primary); }
+.mainName {
+  color: var(--txt-sec-darcker);
+  text-transform: uppercase;
+  font-size: 30px;
+}

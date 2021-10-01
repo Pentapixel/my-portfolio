@@ -21,7 +21,7 @@ const IntroSection = () => {
 
           <div className={s.description}>
             <p>
-              I fell in love with programming and I have at least
+              I fell in love with programming & Designing of course I have at least
               learnt something, I think… 🤷‍♂️
             </p>
 
@@ -30,22 +30,36 @@ const IntroSection = () => {
               <i>
                 <b className={s.purple}>
                   {' '}
-                  Web Technologies and Products
+                  Web Technologies and Products with their designs.
                 </b>
               </i>
             </p>
 
             <p>
-              A passionate Full Stack Software Developer 🚀 <br />I
+              A passionate Full Stack Software Developer & UI/UX Designer 🚀 <br />
+              I
               have an experience of building{' '}
               <i>
-                <b className={s.purple}>Web and Mobile</b>
+                <b className={s.purple}>Web</b>
               </i>{' '}
               applications with
               <br />
               <i>
                 <b className={s.purple}>
-                  JavaScript, Reactjs, Nodejs, React Native
+                  JavaScript, Reactjs, Nodejs, VueJs, MongoDB, MYSQL
+                </b>
+              </i>{' '}
+              and some other cool libraries
+              <i>
+                <br /><br />
+                I have an experience of Designing
+                <b className={s.purple}>Web, Mobile, Posters</b>
+              </i>{' '}
+              applications with
+              <br />
+              <i>
+                <b className={s.purple}>
+                  Adobe XD, Adobe Photoshop, Adobe illustrator, Figma
                 </b>
               </i>{' '}
               and some other cool libraries
@@ -67,7 +81,7 @@ const IntroSection = () => {
         <ul className={s.socialLinks}>
           <li className={s.socialLink}>
             <a
-              href="https://github.com/vsnaichuk"
+              href="https://github.com/hassnaseer"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
@@ -77,7 +91,7 @@ const IntroSection = () => {
           </li>
           <li className={s.socialLink}>
             <a
-              href="https://www.facebook.com/Snaychuk"
+              href="https://www.facebook.com/Mr.Malik1122/"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
@@ -87,17 +101,7 @@ const IntroSection = () => {
           </li>
           <li className={s.socialLink}>
             <a
-              href="https://t.me/snaichuk_v"
-              target="_blank"
-              rel="noreferrer"
-              className={s.socialIcon}
-            >
-              <FaTelegramPlane />
-            </a>
-          </li>
-          <li className={s.socialLink}>
-            <a
-              href="https://www.linkedin.com/in/volodymyr-snaichuk-74a389124/"
+              href="https://www.linkedin.com/in/malik-hassam-314667190/"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}

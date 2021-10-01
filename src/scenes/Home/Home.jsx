@@ -9,7 +9,6 @@ const Home = () => {
       <SectionBG>
         <MainSection />
       </SectionBG>
-
       <IntroSection />
     </HomeLayout>
   );

@@ -8,7 +8,6 @@ const BaseLayout = ({ children }) => {
   return (
     <div className={s.layout}>
       <Particles />
-
       <Header>
         <MainNavigation />
       </Header>
