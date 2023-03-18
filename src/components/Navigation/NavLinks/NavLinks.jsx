@@ -7,7 +7,6 @@ import {
 import { CgFileDocument } from 'react-icons/cg';
 import { routes } from '../../../routes/BaseRoutes';
 import { NavLink } from 'react-router-dom';
-
 const NavLinks = () => {
   const getWhatsAppLink=()=> {
     const phoneNumber = '+15645446567'; // Replace with your phone number
