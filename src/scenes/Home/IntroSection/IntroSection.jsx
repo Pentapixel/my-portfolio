@@ -40,13 +40,13 @@ const IntroSection = () => {
               I
               have an experience of building{' '}
               <i>
-                <b className={s.purple}>Web</b>
+                <b className={s.purple}>Web & Mobile</b>
               </i>{' '}
               applications with
               <br />
               <i>
                 <b className={s.purple}>
-                  JavaScript, Reactjs, Nodejs, VueJs, MongoDB, MYSQL
+                  HTML, CSS, SCSS, Bootstrap, TailwindCss, WordPress, JavaScript, Reactjs, Api integrations, Redux, React Native, Solidity, Solana, Blockchain,  Nodejs, NestJs, AngularJs, VueJs, MongoDB, MYSQL
                 </b>
               </i>{' '}
               and some other cool libraries

@@ -1,7 +1,7 @@
 export const PROJECTS = [
   {
     id: '1',
-    title: 'Apiko Marketplace',
+    title: 'Website Development',
     description:
       'An online marketplace made with React. The project was developed on 8th Apiko Intensive.',
     image: {
@@ -25,7 +25,7 @@ export const PROJECTS = [
   },
   {
     id: '2',
-    title: 'Places App',
+    title: 'Places App & Web',
     description:
       'A MERN app to let users share their experience of places along with Details. It is user friendly and can be useful to many others.',
     image: {

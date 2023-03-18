@@ -12,15 +12,25 @@ const MainSection = () => {
         </h2>
 
         <h1 className={s.mainTitle}>
-          I'M
-          <strong className={s.mainName}> Malik Hassam.</strong>
+          We're 
+          <strong className={s.mainName}> PentaPixel.</strong>
         </h1>
 
         <div style={{ paddingTop: 50 }}>
           <Typewriter
             strings={[
+              "Blockchain Developer",
               'Web Developer',
               'Continuously Learning',
+              "Mobile App developer",
+              "Game developer",
+              "Email Marketing",
+              "Wordpress Developer",
+              "Customer Support",
+              "Content Writer",
+              "Backend Developer",
+              "FrontEnd Developer",
+              "2d, 3d Designer",
               'UI/UX Designer',
             ]}
             wrapperClassName={s.typewriterWrapper}

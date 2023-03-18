@@ -14,11 +14,11 @@ const Footer = () => {
     <div className={s.footer}>
       <div className={s.container}>
         <div className={s.copyright}>
-          <h3>Designed and Developed by Malik Hassam.</h3>
+          <h3>Designed and Developed by PentaPixel.</h3>
         </div>
 
         <div className={s.copyright}>
-          <h3>Copyright © {year} Hassam</h3>
+          <h3>Copyright © {year} PentaPixel</h3>
         </div>
 
         <div className={s.body}>
@@ -34,7 +34,7 @@ const Footer = () => {
             </li>
             <li>
               <a
-                href="https://www.facebook.com/Mr.Malik1122/"
+                href="https://www.facebook.com/profile.php?id=100089691242293"
                 target="_blank"
                 rel="noreferrer"
               >

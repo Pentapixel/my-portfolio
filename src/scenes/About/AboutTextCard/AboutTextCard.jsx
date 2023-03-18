@@ -5,30 +5,17 @@ const AboutTextCard = () => {
   return (
     <div className={s.card}>
       <p style={{ textAlign: 'justify' }}>
-        Hi Everyone, I am{' '}
-        <span className={s.purple}>Snaichuk Volodymyr </span>
-        from <span className={s.purple}> Ternopil, Ukraine.</span>
+        Hi Everyone, We are{' '}
+        <span className={s.purple}>PentaPixel</span>
+        from <span className={s.purple}> USA.</span>
         <br />
-        Skilled MERN Stack and React Native Developer.
-        <br /> Bachelor in Computer Science from
+        We partner with enterprises, startups, and startup accelerators. 
+        <br />Our approach is highly collaborative, and we think about the long game from the start. 
         <br />
-        West Ukrainian National University, Ternopil.
+        We mainly focus on enterprise software development and startup development. 
         <br />
-        <br />
-        Apart from coding, some other activities that I love to do!
+        The results of our work lay the foundation for long-term alliances.
       </p>
-
-      <ul>
-        <li className={s.aboutActivity}>
-          <ImPointRight /> Playing Games
-        </li>
-        <li className={s.aboutActivity}>
-          <ImPointRight /> Reading
-        </li>
-        <li className={s.aboutActivity}>
-          <ImPointRight /> Travelling
-        </li>
-      </ul>
 
       <p
         style={{
